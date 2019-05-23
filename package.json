@@ -1,0 +1,25 @@
+{
+  "name": "socket.io_walkthru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karthik781/socket.io_test.git"
+  },
+  "author": "Karthik Kedam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karthik781/socket.io_test/issues"
+  },
+  "homepage": "https://github.com/Karthik781/socket.io_test#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
